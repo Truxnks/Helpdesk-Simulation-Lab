@@ -238,9 +238,9 @@ This is the core of the project — a fully automated helpdesk training simulato
 
 | Script | Description |
 |---|---|
-| `homelab/Client1-script.ps1` | Randomly selects and applies 1 of 15 IT issues, submits ticket via REST API |
-| `homelab/Run-Random.ps1` | Self-rescheduling scheduled task, fires every 15-20 minutes |
-| `homelab/Chat-Allanah.ps1` | AI end user simulation via GPT-4.1-mini |
+| `Scripts/Client1-script.ps1` | Randomly selects and applies 1 of 15 IT issues, submits ticket via REST API |
+| `Scripts/Run-Random.ps1` | Self-rescheduling scheduled task, fires every 15-20 minutes |
+| `Scripts/Chat-Allanah.ps1` | AI end user simulation via GPT-4.1-mini |
 
 ---
 
